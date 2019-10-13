@@ -1,0 +1,131 @@
+Feature List
+
+ADMIN SIDE
+    Scheduling
+        The ability to schedule any other action
+    
+    Space Allocation
+        Lab Use
+        Car Parking
+        Bike Parking
+        Maker Space Use
+        Congestion
+        
+    Environmental Health
+        Air
+        Water 
+        Nourishment
+        Light 
+        Fitness
+        Comfort
+        Mind
+        *See https://www.wellcertified.com/en/explore-standard* 
+        
+    
+    Amenities
+        Water Fountains
+        Smart Shop 
+        Coffe Machines
+        Peer Mentoring Slots
+        Vending Machines
+        Wireless Charging Ports
+        
+    Labs
+        Lab Use
+            Fingerprints can count unique usage
+            Wireless charging ports with NFC can link phone app to desktop
+        Lab Misusue Reports
+            Video Cans
+        Computer Health Statuses
+            
+    
+    Safety & Security
+        Door Locks
+        Window Locks
+        Smart Smoke Detectors
+            Smart Sprinklers [Uses certain types of retardant per fire type]
+        Facial Recognition
+            Are they allowed in
+        Fires
+            Detects Fires
+            Ventilation Controls
+            Who's still in the building
+        NIDS
+            
+    
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+STUDENT SIDE
+    Scheduling
+        Schedule of classes and room bookings
+        The ability to schedule any other action
+    
+    Space Allocation
+        Lab Use [View not Manage]
+        Bike Parking [VNM] 
+        Maker Space Use [VNM]
+        Congestion [VNM]
+        
+    Environmental Health
+        Air [VNM]
+        Water [VNM] 
+        Nourishment
+            Smart shop calory count
+        Light 
+            Individual workspace settings
+        Fitness 
+            Break reminders
+            RSI
+            Eye Strain
+            Chair Posture Reminder
+        Comfort 
+            Heating 
+            Light
+        Mind
+            Questionairres on Stress
+            Stress Workshops
+            Social Event reminders
+        *See https://www.wellcertified.com/en/explore-standard* 
+        
+    
+    Amenities
+        Water Fountains
+            Level Remaining
+            Current Use
+        Smart Shop 
+            Queue length
+            Food Ordering
+        Coffee Machines
+            Level Remaining
+            Current Use
+        Peer Mentoring Slots
+            Availability
+            What the slot will cover
+            Request more slots
+        Vending Machines
+            Item Prices
+            Items Remaining
+        Wireless Charging Ports
+            Usage
+            Throughput (Power Level)
+        
+    Labs
+        Lab Use
+            Computers in Use Count
+            Enviromental Metrics
+                How Lound, Bright, & Hot
+        Lab Misusue Reports
+            Own Reputation Scores
+            Recent misue scores in Lab 
+        Computer Health Statuses
+            List machines with Bug report
+            List Broken Machines
+    
+    Safety & Security
+        Door & Window Locks
+            When they will lock
+        Fire Alerts
+            THERE IS A FIRE
+        
+            
+    

@@ -1,0 +1,58 @@
+Minimum Viable Product:
+
+*- Home dashboard(Cards)* - Heating and lighting, Space Allocation, Safety and Security, Energy usage
+    - Students
+        - Energy usage - Have an overview of the energy usage of the building (graph)
+        - Heating and lighting stats + quick change of preferences in card
+        - Safety and Security - Current warnings or recommendations
+        - Space Allocation - quick room booking, lab usage percentage
+    - Admins
+        - Energy usage - Overview of energy usage graph, warnings of high usage, recommendations of
+          action required
+        - Heating and lighting analysis stats + quick change of preferences in card
+        - Safety and Security - emergency alarm trigger button, fire warning, electrical warning
+        - Space allocation - quick room booking, lab usage percentage
+
+*- Heating and Lighting Module*
+    - Students
+        - Change their preferences
+        - View averages
+    - Admins
+        - Change their preferences
+        - View averages
+        - Trend analysis
+        - Recommendations for floors
+        - Energy reduction tips - lights on in rooms with no people
+
+*- Space Allocation*
+    - Students
+        - Lab usage view
+        - Room booking
+        - Bike shed usage
+    - Admins
+        - Lab usage view
+        - Room booking, manage bookings
+        - Car parking identification (number plates in car park)
+        - Bike shed usage        
+
+*- Safety and Security*
+    - Students    
+        - Warnings
+        - Fire warnings and instructions
+        - Building locking times etc
+    - Admins
+        - Door locks, window locks, choose floors/rooms to manage
+        - Trigger the alarms
+        - View location of smart smoke detectors set off
+        - People in the building during an emergency
+
+*- Energy Usage/Management*
+    - Students
+        - Graphs showing efficiency of building
+        - Tips on how to be more efficient
+        - Personal energy usage based on heat and light and computer usage?
+    - Admins
+        - Effiency analytics
+        - Power management
+        - Reduce power to certain floors
+        - Set efficiency presets, low power - average - high power

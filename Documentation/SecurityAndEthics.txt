@@ -1,0 +1,23 @@
+BCS very interested in security and ethics
+- Big bonus to include this
+
+Justification for collecting certain data
+
+Have to seriously consider the security of data
+Understand the responsibility to the data
+
+Reference the BCS code of conduct
+
+Data Governance Policy in report
+- Where are you sourcing the data
+- Who owns the data
+- What is the quality of the data
+- How to maintain quality
+- What privacy
+- How will it be kept secure
+- Transparent to the person who has access
+
+Data Gathering
+- Student tracking ethics?
+- Discuss these
+
